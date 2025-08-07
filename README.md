@@ -44,11 +44,6 @@ git clone https://github.com/KushagraSaxena77/CSS-Transition-and-Transform.git
 
 Navigate to the cloned directory and open the HTML files in your preferred web browser.
 
-
-## Features
-
-
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional examples, feel free to open an issue or submit a pull request.
